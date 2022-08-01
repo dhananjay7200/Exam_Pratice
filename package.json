@@ -1,0 +1,22 @@
+{
+  "name": "exam_pratice",
+  "version": "1.0.0",
+  "description": "for exam paratice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhananjay7200/Exam_Pratice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhananjay7200/Exam_Pratice/issues"
+  },
+  "homepage": "https://github.com/dhananjay7200/Exam_Pratice#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
